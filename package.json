@@ -11,6 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "heap-js": "^2.3.0",
+    "heaps": "^0.0.0",
+    "utils": "^0.3.1"
   }
 }

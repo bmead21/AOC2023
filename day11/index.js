@@ -101,9 +101,7 @@ function partOne(file) {
       let dist =
         Math.abs(glxMap[g + 1].pos[0] - glxMap[i].pos[0]) +
         Math.abs(glxMap[g + 1].pos[1] - glxMap[i].pos[1]);
-      // console.log(`${glxMap[i].glxNum} => ${glxMap[g + 1].glxNum} = ${dist}`);
       totDist += dist;
-      pairsCount++;
     }
   }
   // console.log(totDist);

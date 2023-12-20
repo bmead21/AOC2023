@@ -1,1 +1,4 @@
-day7/day7input.txt
+*.txt
+*.csv
+*.xlsx
+!example.txt
